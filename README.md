@@ -1,8 +1,8 @@
 # Skills Tagger
 
-# Requires Docker
-# Requires OpenAI Key in a config.py, named "api_key"
-# Python v3.8+
+* Requires Docker
+* Requires OpenAI Key in a config.py, named "api_key"
+* Python v3.8+
 
 # Step 1: Configure Weviate
 
