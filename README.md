@@ -24,6 +24,8 @@ Run docker-compose up-d
 Install the following packages: 
 
 pip install openai
+
 pip install pandas
+
 pip install weaviate-client
 
